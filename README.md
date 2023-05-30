@@ -1,0 +1,2 @@
+- Just a simple quiz app. It's an older project of mine.
+- Uses Open Trivia DB.
